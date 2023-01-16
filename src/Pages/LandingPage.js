@@ -1,13 +1,14 @@
 import Menu from "../Menu";
 
 const LandingPage = () => {
-  return (
-    <>
-    <Menu></Menu>
-      {/* <SideBar></SideBar>
-      <p onMouseDown={() => alert("Broooooo!")}>{name}</p> */}
-    </>
-  );
+    return (
+        <>
+            <Menu></Menu>
+            {/*Slider*/}
+            {/*  With Image and Text over the Image*/}
+            {/*  Overlay*/}
+        </>
+    );
 };
 
-export { LandingPage };
+export {LandingPage};
